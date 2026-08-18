@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="c16ODVzc-QzNVhFazBtC">
+    <mxGraphModel dx="774" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OEMVnBilu8eFOID9eegS-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_6;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;" value="" vertex="1">
+          <mxGeometry height="30" width="185" x="247.5" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-14" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="390" width="200" x="240" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-15" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.split_action_bar_landscape;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="" vertex="1">
+          <mxGeometry height="40" width="160" x="260" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-16" parent="OEMVnBilu8eFOID9eegS-15" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;whiteSpace=wrap;" value="Email&amp;nbsp;" vertex="1">
+          <mxGeometry height="11.428571428571425" width="154.99999999999997" x="5" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-17" parent="OEMVnBilu8eFOID9eegS-15" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;whiteSpace=wrap;" value="Senha" vertex="1">
+          <mxGeometry height="17.142857142857142" width="160" y="22.85714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;strokeColor=none;fillColor=none;sketch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-19" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="17.14" width="185" x="247.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-20" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Network_Buttons-2756/googleplus-1145.png;" value="" vertex="1">
+          <mxGeometry height="17.14" width="17.14" x="310" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-21" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Network_Buttons-2756/linkedIN-1143.png;" value="" vertex="1">
+          <mxGeometry height="17.14" width="17.14" x="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="OEMVnBilu8eFOID9eegS-23" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Network_Buttons-2756/whatsapp-1151.png;" value="" vertex="1">
+          <mxGeometry height="17.14" width="17.14" x="370" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
